@@ -1,0 +1,435 @@
+@media(min-width:320px) and (max-width:575px) {
+    .header_top a img {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .header_top h4 {
+        font-size: 7px;
+        line-height: 10px;
+        margin-top: 17px;
+        margin-left: 10px;
+    }
+
+    .header_top h5 {
+        font-size: 8px;
+        font-family: OpenSans-Regular;
+        line-height: 10px;
+        margin-left: 15px;
+        margin-top: 17px;
+    }
+
+    /* header top part end */
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+        padding: 13px 14px;
+        font-family: OpenSans-Semibold;
+        text-align: center;
+        line-height: 10px;
+    }
+
+    .home_active {
+        background: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #f07800;
+        background: none;
+        transition: all linear .5s;
+    }
+
+    nav ul li a i {
+        color: #c50811;
+        background: #fff;
+        width: 26px;
+        height: 26px;
+        border-radius: 50%;
+        -moz-border-radius: 50%;
+        ;
+        -webkit-border-radius: 50%;
+        -o-border-radius: 50%;
+        ;
+        text-align: center;
+        padding-top: 4px;
+        margin-left: 140px;
+        margin-bottom: 10px;
+        transition: all linear .5s;
+        -webkit-transition: all linear .5s;
+        -moz-transition: all linear .5s;
+        -o-transition: all linear .5s;
+    }
+
+    .navbar-light .navbar-toggler {
+        padding: 0px 4px;
+        border-color: #ffffff;
+        margin: 5px 0px;
+    }
+
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("../images/bar.png");
+    }
+
+    /* menu part end */
+    .banner {
+        padding-bottom: 45px;
+    }
+
+    .banner h4 {
+        font-size: 20px;
+        padding-top: 40px;
+    }
+
+    .banner h5 {
+        font-size: 30px;
+    }
+
+    .banner p {
+        font-size: 12px;
+    }
+
+    .banner a {
+        padding: 8px 10px;
+        font-size: 10px;
+    }
+
+    /* banner part end */
+
+    .video .overly2 {
+        position: absolute;
+        left: 115px;
+        top: -20px;
+        content: '';
+        opacity: 0.9;
+    }
+
+    /* accordion and video part end */
+
+    .medical_service h3 {
+
+        margin-top: 40px;
+    }
+
+    .photo_gallary h3 {
+
+        margin-top: 40px;
+    }
+
+    /* medical_service,photo_gallary part end */
+    .footer_top img {
+        height: 50px;
+        width: 50px;
+    }
+
+    .footer_top h5 {
+        color: #3CA2A2;
+        font-size: 10px;
+        font-family: OpenSans-Regular;
+        padding-top: 16px;
+        margin-left: 15px;
+    }
+
+    .footer_content h5 {
+        color: #3CA2A2;
+        font-size: 14px;
+        font-family: OpenSans-Semibold;
+        padding-bottom: 5px;
+        margin-left: 45px;
+        margin-top: 20px;
+    }
+
+    .footer_content ul li a i {
+        color: #c70811;
+        font-size: 10px;
+        margin-left: 40px;
+    }
+
+    .footer_bottom h5 {
+        font-size: 10px;
+    }
+}
+
+
+@media(min-width:576px) and (max-width:767px) {
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+        padding: 13px 14px;
+        font-family: OpenSans-Semibold;
+        text-align: center;
+        line-height: 10px;
+    }
+
+    .home_active {
+        background: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #f07800;
+        background: none;
+        transition: all linear .5s;
+    }
+
+    nav ul li a i {
+        color: #c50811;
+        background: #fff;
+        width: 26px;
+        height: 26px;
+        border-radius: 50%;
+        -moz-border-radius: 50%;
+        ;
+        -webkit-border-radius: 50%;
+        -o-border-radius: 50%;
+        ;
+        text-align: center;
+        padding-top: 4px;
+        margin-left: 270px;
+        margin-bottom: 10px;
+        transition: all linear .5s;
+        -webkit-transition: all linear .5s;
+        -moz-transition: all linear .5s;
+        -o-transition: all linear .5s;
+    }
+
+    .navbar-light .navbar-toggler {
+        padding: 0px 4px;
+        border-color: #ffffff;
+        margin: 5px 0px;
+    }
+
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url("../images/bar.png");
+    }
+
+    .header_top h4 {
+        color: #3ca2a2;
+        font-size: 12px;
+        line-height: 100px;
+        margin-left: 20px;
+    }
+
+    .header_top h5 {
+        color: #d1363c;
+        font-size: 12px;
+        line-height: 105px;
+        margin-left: 50px;
+    }
+
+    /* header part end */
+    .banner {
+        padding-bottom: 45px;
+    }
+
+    .banner h4 {
+        font-size: 14px;
+        padding-top: 40px;
+    }
+
+    .banner h5 {
+        font-size: 20px;
+    }
+
+    .banner p {
+        font-size: 10px;
+    }
+
+    .banner a {
+        padding: 8px 10px;
+        font-size: 10px;
+    }
+
+    /* banner part end */
+
+    .learn_find_free h5 {
+        padding-bottom: 22px;
+        font-size: 16px;
+        color: #3ca2a2;
+        font-family: OpenSans-Semibold;
+    }
+
+
+    .video .overly2 {
+        position: absolute;
+        top: -25px;
+        left: 100px;
+        content: '';
+    }
+
+    .news_events h3 {
+        font-size: 20px;
+    }
+
+    .news_events h3:after {
+        top: 37px;
+        left: 0px;
+    }
+
+    .medical_service h3 {
+        font-size: 20px;
+    }
+
+    .medical_service h3:after {
+        top: 37px;
+        left: 0px;
+    }
+
+    .photo_gallary h3 {
+        font-size: 20px;
+    }
+
+    .photo_gallary h3:after {
+        top: 37px;
+    }
+
+    .footer_top h5 {
+        color: #3CA2A2;
+        font-size: 22px;
+        font-family: OpenSans-Regular;
+        padding-top: 7px;
+        padding-left: 5px;
+    }
+
+    .footer_content ul li a span {
+        color: #c6ded9;
+        font-size: 10px;
+        margin-left: 5px;
+        font-family: OpenSans-Regular;
+        transition: all linear .5s;
+        -webkit-transition: all linear .5s;
+        -moz-transition: all linear .5s;
+        -o-transition: all linear .5s;
+    }
+
+
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .header_top h4 {
+        color: #3ca2a2;
+        font-size: 15px;
+        line-height: 100px;
+        margin-left: 20px;
+    }
+
+    .header_top h5 {
+        color: #d1363c;
+        font-size: 12px;
+        line-height: 105px;
+        margin-left: 50px;
+
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar-light .navbar-toggler-icon {
+        background-image: url(../images/bar.png);
+    }
+
+    .navbar-light .navbar-toggler {
+        padding: 0px 4px;
+        border-color: #ffffff;
+        margin: 5px 0px;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        color: #fff;
+        padding: 13px 14px;
+        font-family: OpenSans-Semibold;
+        text-align: center;
+    }
+
+    nav ul li a i {
+        margin-bottom: 10px;
+        margin-left: 365px;
+
+    }
+
+    .home_active {
+        background: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link:focus,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #f07800;
+        background: none;
+        transition: all linear .5s;
+    }
+
+    .learn_find_free h5 {
+        padding-bottom: 22px;
+        font-size: 18px;
+        color: #3ca2a2;
+        font-family: OpenSans-Semibold;
+    }
+
+    .video .overly2 {
+        position: absolute;
+        top: -25px;
+        left: 150px;
+        content: '';
+
+    }
+
+    .footer_top h5 {
+        margin-left: 20px;
+
+    }
+}
+
+
+@media(min-width:992px) and (max-width:1199px) {
+    .header_top h4 {
+        color: #3ca2a2;
+        font-size: 20px;
+        font-family: OpenSans-Regular;
+        line-height: 115px;
+        margin-left: 20px;
+    }
+
+    .header_top h5 {
+        color: #d1363c;
+        font-size: 20px;
+        font-family: OpenSans-Regular;
+        line-height: 115px;
+        margin-left: 90px;
+    }
+
+    .learn_find_free p {
+        color: #215a6d;
+        font-size: 12px;
+        font-family: OpenSans-Regular;
+        padding-top: 15px;
+        padding-bottom: 20px;
+    }
+
+    .video .overly2 {
+        position: absolute;
+        top: -25px;
+        left: 200px;
+        content: '';
+
+    }
+}
+
+@media(min-width:1201px) and (max-width:1400px) {
+    .header_top h5 {
+        color: #d1363c;
+        font-size: 20px;
+        font-family: OpenSans-Regular;
+        line-height: 115px;
+        margin-left: 120px;
+    }
+}
